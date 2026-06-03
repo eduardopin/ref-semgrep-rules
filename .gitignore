@@ -4,7 +4,6 @@ __pycache__/
 .DS_Store
 .vscode/
 .venv
-.codex-repo-context.json
 .env
 *.tfstate
 *.tfstate.*
